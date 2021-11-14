@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/studyweb/static/css/main.8516f545.chunk.css",
+    "main.js": "/studyweb/static/js/main.45e08cce.chunk.js",
+    "main.js.map": "/studyweb/static/js/main.45e08cce.chunk.js.map",
+    "runtime-main.js": "/studyweb/static/js/runtime-main.d285045b.js",
+    "runtime-main.js.map": "/studyweb/static/js/runtime-main.d285045b.js.map",
+    "static/js/2.5e8e8c0c.chunk.js": "/studyweb/static/js/2.5e8e8c0c.chunk.js",
+    "static/js/2.5e8e8c0c.chunk.js.map": "/studyweb/static/js/2.5e8e8c0c.chunk.js.map",
+    "index.html": "/studyweb/index.html",
+    "static/css/main.8516f545.chunk.css.map": "/studyweb/static/css/main.8516f545.chunk.css.map",
+    "static/js/2.5e8e8c0c.chunk.js.LICENSE.txt": "/studyweb/static/js/2.5e8e8c0c.chunk.js.LICENSE.txt",
+    "static/media/Career.css": "/studyweb/static/media/fundo3.3ca59f8a.jpg",
+    "static/media/icon-atualizacao.e54fd208.png": "/studyweb/static/media/icon-atualizacao.e54fd208.png",
+    "static/media/icon-certificado.d8517097.png": "/studyweb/static/media/icon-certificado.d8517097.png",
+    "static/media/icon-metodologia.5ed07bc7.png": "/studyweb/static/media/icon-metodologia.5ed07bc7.png",
+    "static/media/icon-relogio.48e5bf40.png": "/studyweb/static/media/icon-relogio.48e5bf40.png",
+    "static/media/icon-suporte.ab810675.png": "/studyweb/static/media/icon-suporte.ab810675.png",
+    "static/media/Slide.css": "/studyweb/static/media/slide-home.5fd0c950.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d285045b.js",
+    "static/js/2.5e8e8c0c.chunk.js",
+    "static/css/main.8516f545.chunk.css",
+    "static/js/main.45e08cce.chunk.js"
+  ]
+}
