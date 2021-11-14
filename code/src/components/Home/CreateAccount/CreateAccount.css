@@ -1,0 +1,62 @@
+.create--area{
+    width:100%;
+    height:480px;
+    background:url('./fundo4.png');
+    background-size:100% 100%;
+}
+.create--area > div{
+    max-width:1065px;
+    height: 100%;
+    margin: -1px auto;
+    padding:0px 20px;
+
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.create--video{
+    width:480px;
+    height:320px;
+    background:white;
+    box-shadow: 0px 0px 3px 1px #ddd;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.create--video > iframe{
+    width:96.5%;
+    height:95%;
+}
+.create--text{
+    width:500px;
+}
+.create--text--title{
+    font-family:'Ubuntu', sans-serif;
+    font-size:2.3rem;
+    color:#00a1b1;
+    letter-spacing:-2px;
+}
+.create--text--paragraph{
+    font-size:1.2rem;
+    font-weight:300;
+    color:#62a1a7;
+    margin-top:15px;
+}
+.create--text--link{
+    display: block;
+    margin-top: 30px;
+    width: 200px;
+    background: #c3faad;
+    border-radius: 50px;
+    padding: 15px 0px;
+    text-align: center;
+    color: #01292e;
+    font-weight: 600;
+    box-shadow: 0px 0px 3px 1px #c3faad;
+
+}
+.create--text--link:hover{
+    opacity:0.7;
+    transition:0.3s;
+}

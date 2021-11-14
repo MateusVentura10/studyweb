@@ -1,0 +1,64 @@
+.coursesData--area{
+    width:100%;
+    height:90px;
+    background:linear-gradient(90deg, rgba(1,99,113,1) 0%, rgba(3,144,164,1) 44%, rgba(3,168,191,1) 84%);
+    border-top:1px solid #51b5c2;
+}
+.coursesData--area > div{
+    max-width:1020px;
+    height:100%;
+    margin: 0 auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.coursesData--data{
+    height:35px;
+    padding:0px 20px;
+    display:flex;
+    align-items:center;
+    border-left:1px solid rgba(255, 255, 255, 0.39);
+    padding-left:30px;
+}
+.coursesData--data > span{
+    color:white;
+    font-size:1.15rem;
+    font-weight:400;
+    margin-left:10px;
+}
+
+.coursesData--course{
+    border:none !important;
+}
+
+.coursesData--course > i{
+    display:block;
+    width:38px;
+    height:28px;
+    background:url('./icons/icon-curso.png');
+    background-size:100% 100%;
+}
+
+.coursesData--student > i{
+    display:block;
+    width:40px;
+    height:30px;
+    background:url('./icons/icon-aluno.png');
+    background-size:100% 100%;
+}
+
+.coursesData--teacher > i{
+    display:block;
+    width:35px;
+    height:30px;
+    background:url('./icons/icon-professor.png');
+    background-size:100% 100%;
+}
+
+.coursesData--class > i{
+    display:block;
+    width:32px;
+    height:22px;
+    background:url('./icons/icon-play.png');
+    background-size:100% 100%;
+}
